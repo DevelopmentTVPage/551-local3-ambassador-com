@@ -1,0 +1,15 @@
+{
+    "title": "Test Project 2",
+    "baseURL": "https:\/\/local3.ambassador.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759121",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "ambassador.com"
+    }
+}
